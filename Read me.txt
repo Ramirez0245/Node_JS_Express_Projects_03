@@ -1,0 +1,3 @@
+About: Another simple json api. This program uses schema with Joi to make sure that the
+	json is valid. Must enable parsing of json objects in the body of the request by 
+	app.use(express.json()). Did CRUD operations
